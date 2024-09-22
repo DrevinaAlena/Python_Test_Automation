@@ -9,3 +9,7 @@ This simple yet powerful Calculator project offers basic arithmetic operations l
 - **Basic Arithmetic Operations**: Add, Subtract, Multiply, Divide
 - **Advanced Mathematical Functions**: Calculate the Square Root and Access π (Pi) Value
 - **Comprehensive Unit Testing**: Ensure the reliability and accuracy of calculator functions
+
+
+## Run
+python test_calculator.py
